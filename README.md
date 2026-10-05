@@ -1,2 +1,2 @@
 # stocktrading-app-info
-Public information pages for the StockTrading application
+This repository hosts the public information pages for StockTrading.
